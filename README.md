@@ -37,8 +37,7 @@ where parameters θ are inferred using Bayesian methods.
 ---
 # Development Notebook
 
-Most implementation details and methodological development are documented in:
-`development_notebook.ipynb`
+Most implementation details and methodological development are documented in [development_notebook.ipynb](https://github.com/MAMBO-Habitat/BRAMBLE/blob/main/development_notebook.ipynb)
 
 # Quick Start:
 **In command line**:
